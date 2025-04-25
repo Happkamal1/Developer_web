@@ -1,6 +1,6 @@
 import React from "react";
 import Coder from "../images/GuideToHire/coder.png";
-import True from "../images/GuideToHire/True.png";
+import True from "../images/GuideToHire/true.png";
 
 const HireDevsGuide = () => {
   return (
@@ -78,4 +78,4 @@ const HireDevsGuide = () => {
   );
 };
 
-export default HireDevsGuide;
+export default GuideToHire;
