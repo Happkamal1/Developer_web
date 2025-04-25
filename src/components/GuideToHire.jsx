@@ -2,7 +2,7 @@ import React from "react";
 import Coder from "../images/GuideToHire/coder.png";
 import True from "../images/GuideToHire/true.png";
 
-const HireDevsGuide = () => {
+const GuideToHire = () => {
   return (
     <div className="flex justify-center bg-[#f8fafa] py-8 sm:py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <div className="w-full max-w-7xl">
@@ -78,4 +78,8 @@ const HireDevsGuide = () => {
   );
 };
 
+<<<<<<< HEAD
 export default GuideToHire;
+=======
+export default GuideToHire;
+>>>>>>> c7c33c40a636a57cc8be60ba688ec8db6b2dffd7
