@@ -77,9 +77,4 @@ const GuideToHire = () => {
     </div>
   );
 };
-
-<<<<<<< HEAD
 export default GuideToHire;
-=======
-export default GuideToHire;
->>>>>>> c7c33c40a636a57cc8be60ba688ec8db6b2dffd7
