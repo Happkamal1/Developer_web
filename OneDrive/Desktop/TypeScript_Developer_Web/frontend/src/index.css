@@ -1,0 +1,8 @@
+@tailwind base;
+
+body {
+  @apply font-poppins;
+}
+
+@tailwind components;
+@tailwind utilities;
